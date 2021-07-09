@@ -6,13 +6,9 @@ Antes de mais nada, recomendamos ler a seção de **[👩‍🏫 Introdução](h
 
 O projeto será dividido em duas partes:
 
-### 🎰 Bandits
-
 <img src="img/tarefa1.png" width="100%" />
 
 > descrição aqui
-
-### 📔 Stable Baselines
 
 <img src="img/tarefa2.png" width="100%" />
 
