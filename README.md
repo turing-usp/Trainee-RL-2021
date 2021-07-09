@@ -1,4 +1,4 @@
-# 🏎️ Projeto Trainee de Aprendizado por Reforço 🚙
+<img src="img/title.png" width="100%" />
 
 Boas vindas ao Projeto Trainee 2021 da área de Aprendizado por Reforço!
 
@@ -8,9 +8,13 @@ O projeto será dividido em duas partes:
 
 ### 🎰 Bandits
 
+<img src="img/tarefa1.png" width="100%" />
+
 > descrição aqui
 
 ### 📔 Stable Baselines
+
+<img src="img/tarefa2.png" width="100%" />
 
 Na segunda parte do projeto, você deverá implementar e comparar diferentes algoritmos de Aprendizado por Reforço Profundo utilizando a biblioteca [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/).
 
