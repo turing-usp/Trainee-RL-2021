@@ -15,3 +15,5 @@ O projeto será dividido em duas partes:
 Na segunda parte do projeto, você deverá implementar e comparar diferentes algoritmos de Aprendizado por Reforço Profundo utilizando a biblioteca [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/).
 
 Este repositório já contém um tutorial simples de como utilizar a biblioteca, que você pode conferir **[aqui](Tutorial%20-%20Stable%20Baselines.ipynb)**!
+
+Para começar a tarefa, basta acessar e alterar **[este notebook](Tarefa%202%20-%20Stable%20Baselines.ipynb)**!
