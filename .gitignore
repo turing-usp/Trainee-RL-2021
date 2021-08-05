@@ -137,6 +137,9 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# vscode
+.vscode
+
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
