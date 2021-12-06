@@ -21,3 +21,11 @@ Na segunda parte do projeto, você deverá implementar e comparar diferentes alg
 Este repositório já contém um tutorial simples de como utilizar a biblioteca, que você pode conferir **[aqui](Tutorial%20-%20Stable%20Baselines.ipynb)**!
 
 Para começar a tarefa, basta acessar e alterar **[este notebook](Tarefa%202%20-%20Stable%20Baselines.ipynb)**!
+
+<img src="img/tarefa_extra.png" width="100%" />
+
+Por fim, propomos uma tarefa extra 100% opcional caso queira treinar suas habilidades de RL! Ao final do projeto Trainee, caso ache interessante, você pode optar por treinar um novo modelo para o ambiente **slime-volleyball**, um jogo de vôlei no qual seu agente pode competir com os jogadores de outros membros.
+
+Para treinar seu próprio agente, basta rodar [este Jupyter Notebook](https://colab.research.google.com/github/turing-usp/Trainee-RL-2021/blob/main/Tarefa%20Extra%20-%20SlimeVolleyball.ipynb) em seu Google Colaboratory. Recomendamos, antes de começar, que você converse com algum dos veteranos da área, copie o notebook para seu drive e edite os hiperparâmetros conforme necessário!
+
+**DISCLAMER:** Os agentes de vôlei demorarão muitas horas (3+) para serem treinados e nem sempre superarão a IA já programada no próprio jogo, então não se desanime caso não esteja obtendo resultados rapidamente! Lembrando que esta é uma tarefa **100% opcional**.
